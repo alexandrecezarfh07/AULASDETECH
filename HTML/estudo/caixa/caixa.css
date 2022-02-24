@@ -1,0 +1,48 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+.tamanho{
+      display: inline-block;    
+}
+.maior{
+    display: flex;
+    justify-content: center;;
+}
+
+div p {
+    color: black;
+    font-size: 15px;
+    display: flex;
+    margin: auto;
+}
+
+#verde{
+    background-color: green;
+   
+}
+
+#vermelho{
+    background-color: red;
+   
+}
+
+#cinza{
+    background-color: grey;
+    
+}
+
+#amarelo{
+    background-color: yellow;
+ }
+
+.organizando{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin:auto;
+    height: 100px;
+    width: 100px;
+}
+
